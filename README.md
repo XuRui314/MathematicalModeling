@@ -1,5 +1,6 @@
 # MathematicalModeling
 Still updating...
+
 ##预测模型
 神经网络预测、灰色预测、拟合插值预测（线性回归）、时间序列预测、马尔科夫链预测、微分方程预测、Logistic 模型等等。
 
