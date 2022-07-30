@@ -20,4 +20,4 @@ Still updating...
 应用领域：某区域水资源评价、水利工程项目风险评价、城市发展程度评价、
 足球教练评价、篮球队评价、水生态评价、大坝安全评价、边坡稳定性评价
 
-![](![](https://s2.loli.net/2022/07/30/DYX4PFfzlviashG.png))
+![](https://s2.loli.net/2022/07/30/DYX4PFfzlviashG.png)
