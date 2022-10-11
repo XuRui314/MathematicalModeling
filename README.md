@@ -1,5 +1,6 @@
 # MathematicalModeling
 目前是国一推选😀
+
 <img src="https://s2.loli.net/2022/10/08/bYXwQGzNCrZ76Mv.png" alt="image-20221008142041237.png" style="zoom:80%;" />
 
 ## 预测模型
