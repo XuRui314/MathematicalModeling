@@ -1,5 +1,6 @@
 # MathematicalModeling
-Still updating...
+目前是国一推选😀
+<img src="https://s2.loli.net/2022/10/08/bYXwQGzNCrZ76Mv.png" alt="image-20221008142041237.png" style="zoom:80%;" />
 
 ## 预测模型
 神经网络预测、灰色预测、拟合插值预测（线性回归）、时间序列预测、马尔科夫链预测、微分方程预测、Logistic 模型等等。
