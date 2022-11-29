@@ -3,6 +3,12 @@
 
 <img src="https://s2.loli.net/2022/10/08/bYXwQGzNCrZ76Mv.png" alt="image-20221008142041237.png" style="zoom:80%;" />
 
+2022/11/26 更新
+
+<img src="https://s2.loli.net/2022/11/29/HQcJB8ZUqrFaWtR.png" alt="image-20221129213103249.png" style="zoom:80%;" />
+
+最后是国一，还被电视台采访了🤣
+
 ## 预测模型
 神经网络预测、灰色预测、拟合插值预测（线性回归）、时间序列预测、马尔科夫链预测、微分方程预测、Logistic 模型等等。
 
